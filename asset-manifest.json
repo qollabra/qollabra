@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.fe356be3.js",
-    "static/js/787.eb1f428a.chunk.js": "/static/js/787.eb1f428a.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.fe356be3.js.map": "/static/js/main.fe356be3.js.map",
-    "787.eb1f428a.chunk.js.map": "/static/js/787.eb1f428a.chunk.js.map"
+    "main.css": "/qollabra/static/css/main.073c9b0a.css",
+    "main.js": "/qollabra/static/js/main.9b64ad81.js",
+    "static/js/787.eb1f428a.chunk.js": "/qollabra/static/js/787.eb1f428a.chunk.js",
+    "index.html": "/qollabra/index.html",
+    "main.073c9b0a.css.map": "/qollabra/static/css/main.073c9b0a.css.map",
+    "main.9b64ad81.js.map": "/qollabra/static/js/main.9b64ad81.js.map",
+    "787.eb1f428a.chunk.js.map": "/qollabra/static/js/787.eb1f428a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fe356be3.js"
+    "static/js/main.9b64ad81.js"
   ]
 }
